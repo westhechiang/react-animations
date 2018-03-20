@@ -1,5 +1,5 @@
 {
-  "name": "react-animations",
+  "name": "rm-react-animations",
   "version": "1.0.0",
   "description": "A collection of animations for inline styles",
   "main": "lib/index.js",
@@ -38,7 +38,7 @@
     "eslint": "^3.6.0",
     "eslint-config-formidable": "^2.0.1",
     "eslint-plugin-filenames": "^1.1.0",
-    "eslint-plugin-flowtype": "^2.19.0",
+    "eslint-plugin-flowtype": "^2.46.1",
     "eslint-plugin-import": "^1.16.0",
     "flow-bin": "^0.32.0",
     "jest": "^15.1.1",

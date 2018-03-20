@@ -5,7 +5,7 @@ import type { Animation } from './types';
 const fadeInUp: Animation = {
   from: {
     opacity: 0,
-    transform: translate3d(0, '100%', 0)
+    transform: translate3d(0, '25%', 0)
   },
   to: {
     opacity: 1,
