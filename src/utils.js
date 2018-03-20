@@ -3,7 +3,7 @@ import type { CSSValue } from './types';
 
 /**
  * Composes a variable number of CSS helper functions.
- * Returns a function that accepts all the original arguments
+ * @returns {function} a function that accepts all the original arguments
  * of the functions it composed. If the original function
  * accepted multiple arguments, they must be passed as
  * an array.
